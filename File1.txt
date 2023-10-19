@@ -1,2 +1,0 @@
-Testing Project in Github
-A new line is added to check the changes in CI
